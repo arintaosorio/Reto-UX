@@ -1,5 +1,6 @@
-##RETO UX - LABORATORIA WEEBSITE
+##RETO UX 
 
+## LABORATORIA
 **UI:**
 
 *Logo
@@ -24,6 +25,8 @@ Empresas contratando nuestro talento LABORATORIA
 *Contenido para empresas: Confianza, seguridad, credibilidad, posicionamiento, seriedad.
 
 ![RETO UX](img/imglab.jpg)
+
 ##Sketch
+
 ![Sketch](img/sketch.jpg)
-![Sketch](img/sketch-alumas.jpg)
+![Sketch](img/sketch-alumnas.jpg)
