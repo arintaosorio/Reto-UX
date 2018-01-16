@@ -1,4 +1,4 @@
-##RETO UX 
+## RETO UX 
 
 ## LABORATORIA
 **UI:**
@@ -13,7 +13,7 @@
 *Textos alineados
 *Footer
 
-###Objetivo de negocio:
+### Objetivo de negocio:
 
 Postulación de nuevas estudiantes
 Empresas contratando nuestro talento LABORATORIA
@@ -24,9 +24,13 @@ Empresas contratando nuestro talento LABORATORIA
 *Texto alumnas: motivación.
 *Contenido para empresas: Confianza, seguridad, credibilidad, posicionamiento, seriedad.
 
+---
+
 ![RETO UX](img/imglab.jpg)
 
-##Sketch
+---
+
+## Sketch
 
 ![Sketch](img/sketch.jpg)
 ![Sketch](img/sketch-alumnas.jpg)
